@@ -1,5 +1,25 @@
 ---
-title: "Home"
+title: "Jane Doe"
+about:
+  template: jolla
+  image: img/profile.jpg
+  image-alt: "Placeholder profile photo"
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: envelope
+      text: Email
+      href: mailto:name@example.com
 ---
 
-Placeholder home page.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
