@@ -7,8 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: blog.qmd
-        text: Blog
+      - href: services.qmd
+        text: Services
+      - href: about.qmd
+        text: About
+      - href: insights.qmd
+        text: Insights
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

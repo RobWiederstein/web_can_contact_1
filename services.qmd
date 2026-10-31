@@ -1,0 +1,28 @@
+---
+title: "Services"
+---
+
+## Policy & Handbook Development
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+
+## Compliance Reviews
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. FLSA, FMLA, ADA, and
+state-level requirements.
+
+## Workforce Planning
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+
+## Labor Relations
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+
+## Training
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.

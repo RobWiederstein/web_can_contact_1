@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+- **Email:** [name@example.com](mailto:name@example.com)
+- **LinkedIn:** [linkedin.com/in/placeholder](https://linkedin.com)
+- **Phone:** xxx-xxx-xxxx
