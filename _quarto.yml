@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "contact_1"
+  title: "Jane Doe"
   navbar:
     left:
       - href: index.qmd
